@@ -1,0 +1,77 @@
+2026-08-03 03:28:37 [INFO] Starting crawl with 6 seed URL(s) (max_depth=2, same_domain_only=True)
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com/about-us/
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com/services/
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com/projects/
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com/testimonials/
+2026-08-03 03:28:37 [INFO] Blocked by robots.txt, skipping page: https://jxrconstructors.com/the-jxr-constructors-inc-shop/
+2026-08-03 03:28:37 [INFO] Crawl complete. Pages crawled: 0, image URLs found: 0
+2026-08-03 03:28:37 [INFO] Downloading 0 images with 6 workers...
+2026-08-03 03:28:37 [INFO] Done. pages_crawled=0 images_found=0 downloaded=0 skipped_duplicates=0 failed=0
+2026-08-03 03:28:37 [INFO] Missing/failed file log: downloaded_images_jxr/missing_files.log
+2026-08-03 03:28:37 [INFO] Manifest (for resume): downloaded_images_jxr/.image_downloader_manifest.json
+2026-08-03 03:36:17 [INFO] Starting crawl with 6 seed URL(s) (max_depth=2, same_domain_only=True)
+2026-08-03 03:36:27 [INFO] Crawl complete. Pages crawled: 45, image URLs found: 52
+2026-08-03 03:36:27 [INFO] Downloading 52 images with 6 workers...
+2026-08-03 03:36:27 [INFO] [1/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2023/09/jxr-constructors-inc-logo.png
+2026-08-03 03:36:27 [INFO] [2/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/Img-About-3.jpg
+2026-08-03 03:36:27 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2025/05/Img-About-3-300x258.jpg  =>  https://jxrconstructors.com/wp-content/uploads/2025/05/Img-About-3.jpg
+2026-08-03 03:36:27 [INFO] [3/52] skipped (skipped-duplicate-url): https://jxrconstructors.com/wp-content/uploads/2025/05/Img-About-3-300x258.jpg
+2026-08-03 03:36:27 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2-768x576.png  =>  https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2.png
+2026-08-03 03:36:27 [INFO] [4/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/AdobeStock_83425920-scaled.jpeg
+2026-08-03 03:36:27 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2-300x225.png  =>  https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2.png
+2026-08-03 03:36:27 [INFO] [5/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-08.jpg
+2026-08-03 03:36:27 [INFO] [6/52] downloaded: https://seal-central-northern-western-arizona.bbb.org/seals/blue-seal-293-61-bbb-1000089129.png
+2026-08-03 03:36:27 [WARNING] [7/52] FAILED: https://jxrconstructors.com/wp-content/uploads/2025/05/Image-Contact-1.jpg (404)
+2026-08-03 03:36:27 [INFO] [8/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/4SWBR-VA-Loma-Linda-02.jpg
+2026-08-03 03:36:27 [INFO] [9/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2-768x576.png
+2026-08-03 03:36:27 [INFO] [10/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-06.jpg
+2026-08-03 03:36:27 [INFO] [11/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2.png
+2026-08-03 03:36:27 [INFO] [12/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/4SWBR-VA-Loma-Linda-03.jpg
+2026-08-03 03:36:27 [INFO] [13/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-03.jpg
+2026-08-03 03:36:27 [INFO] [14/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-03.jpg
+2026-08-03 03:36:27 [INFO] [15/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/Image_Placeholder-about-1.jpeg
+2026-08-03 03:36:27 [INFO] [16/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-04.jpg
+2026-08-03 03:36:28 [INFO] [17/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-03.jpg
+2026-08-03 03:36:28 [INFO] [18/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-05.jpg
+2026-08-03 03:36:28 [INFO] [19/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-06.jpg
+2026-08-03 03:36:28 [INFO] [20/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2026/07/jxr-office-building-trucks_v2-300x225.png
+2026-08-03 03:36:28 [INFO] [21/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-01.jpg
+2026-08-03 03:36:28 [INFO] [22/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-02.jpg
+2026-08-03 03:36:28 [INFO] [23/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/4SWBR-VA-Loma-Linda-01.jpg
+2026-08-03 03:36:28 [INFO] [24/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/T2WRR-San-Diego-International-Airport-03.jpg
+2026-08-03 03:36:28 [INFO] [25/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-02.jpg
+2026-08-03 03:36:28 [INFO] [26/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-01.jpg
+2026-08-03 03:36:28 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2025/05/Image_Placeholder-about-1-300x264.jpeg  =>  https://jxrconstructors.com/wp-content/uploads/2025/05/Image_Placeholder-about-1.jpeg
+2026-08-03 03:36:28 [INFO] [27/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-02.jpg
+2026-08-03 03:36:28 [INFO] [28/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-01.jpg
+2026-08-03 03:36:28 [INFO] [29/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-06.jpg
+2026-08-03 03:36:28 [INFO] [30/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-02.jpg
+2026-08-03 03:36:28 [INFO] [31/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/T2WRR-San-Diego-International-Airport-04.jpg
+2026-08-03 03:36:28 [INFO] [32/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-04.jpg
+2026-08-03 03:36:28 [INFO] [33/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/T2WRR-San-Diego-International-Airport-02.jpg
+2026-08-03 03:36:28 [INFO] [34/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-04.jpg
+2026-08-03 03:36:28 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-1024x683.jpeg  =>  https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27.jpeg
+2026-08-03 03:36:28 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-300x200.jpeg  =>  https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27.jpeg
+2026-08-03 03:36:28 [INFO] [35/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-01.jpg
+2026-08-03 03:36:28 [INFO] Upgraded thumbnail -> full size: https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-768x512.jpeg  =>  https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27.jpeg
+2026-08-03 03:36:28 [INFO] [36/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RFFVB-VA-Long-Beach-05.jpg
+2026-08-03 03:36:28 [INFO] [37/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-07.jpg
+2026-08-03 03:36:28 [INFO] [38/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/RRMCAS-NAVFAC-MCAS-Miramar-01.jpg
+2026-08-03 03:36:28 [INFO] [39/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/R1FC-VA-Los-Angeles-03.jpg
+2026-08-03 03:36:28 [INFO] [40/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/ORPA-VA-San-Diego-05.jpg
+2026-08-03 03:36:28 [INFO] [41/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-04.jpg
+2026-08-03 03:36:28 [INFO] [42/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/T2WRR-San-Diego-International-Airport-01.jpg
+2026-08-03 03:36:28 [INFO] [43/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-05.jpg
+2026-08-03 03:36:28 [INFO] [44/52] downloaded: https://jxrconstructors.com/wp-content/plugins/elementor/assets/images/placeholder.png
+2026-08-03 03:36:28 [INFO] [45/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/MASSU-VA-San-Diego-06.jpg
+2026-08-03 03:36:28 [INFO] [46/52] skipped (skipped-duplicate-url): https://jxrconstructors.com/wp-content/uploads/2025/05/Image_Placeholder-about-1-300x264.jpeg
+2026-08-03 03:36:28 [INFO] [47/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27.jpeg
+2026-08-03 03:36:28 [INFO] [48/52] skipped (skipped-duplicate-url): https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-1024x683.jpeg
+2026-08-03 03:36:28 [INFO] [49/52] skipped (skipped-duplicate-url): https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-300x200.jpeg
+2026-08-03 03:36:28 [INFO] [50/52] skipped (skipped-duplicate-url): https://jxrconstructors.com/wp-content/uploads/2025/05/qtq80-t4Hj27-768x512.jpeg
+2026-08-03 03:36:28 [INFO] [51/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2025/05/CVE-Certified-Logo-thumbx.jpg
+2026-08-03 03:36:28 [INFO] [52/52] downloaded: https://jxrconstructors.com/wp-content/uploads/2023/09/Screen-Shot-2023-09-29-at-11.13.34-AM.png
+2026-08-03 03:36:28 [INFO] Done. pages_crawled=45 images_found=52 downloaded=46 skipped_duplicates=5 failed=1
+2026-08-03 03:36:28 [INFO] Missing/failed file log: downloaded_images_jxr/missing_files.log
+2026-08-03 03:36:28 [INFO] Manifest (for resume): downloaded_images_jxr/.image_downloader_manifest.json
