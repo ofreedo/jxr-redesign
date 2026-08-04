@@ -179,6 +179,10 @@ img { max-width: 100%; display: block; }
   color: var(--jxr-blue);
 }
 
+.nav-contact-mobile-only {
+  display: none;
+}
+
 .main-nav a.active::after {
   content: "";
   position: absolute;
@@ -768,6 +772,10 @@ img { max-width: 100%; display: block; }
   }
 
   .main-nav a.active::after { display: none; }
+
+  .nav-contact-mobile-only {
+    display: block;
+  }
 
   .nav-utility {
     margin-left: 0;
